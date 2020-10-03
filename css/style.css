@@ -23,10 +23,9 @@ img{
     display: flex;
 
 }
-
-.wrapper{
+.slide-wrapper {
     overflow: hidden;
-}
+  }
 
 .slide li{
     width: 80vw;
